@@ -1,1 +1,1 @@
-"2026 Fall Semester Open-Source SW Programming Project Start"
+print("2026 Fall Semester Open-Source SW Programming Project Start")
